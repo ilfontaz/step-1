@@ -42,6 +42,7 @@ void first_grid ()
   grid_out.write_eps (triangulation, out);
   std::cout << "Grid written to grid-1.eps" << std::endl;
   std::cout << "We print out something" << std:: endl;
+  std::cout << "We print out something more" << std:: endl;
 }
 
 
